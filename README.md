@@ -109,4 +109,5 @@ A successful Vite build may still report a large-bundle warning. This is a perfo
 - [Requirements checklist](docs/REQUIREMENTS_CHECKLIST.md)
 - [Enhancement roadmap](docs/ENHANCEMENT_ROADMAP.md)
 
-Before submission, add only verified public deployment, repository and demo-video URLs. Add an appropriate license before publishing the repository.
+Public deployment -
+Demo-video URL- 
