@@ -205,7 +205,7 @@ export default function App() {
               <QualityRow label="Missing actual timestamps" value={quality?.missing_actual_periods} warning={quality?.missing_actual_periods > 0} />
               <QualityRow label="Forecast records received" value={quality?.forecast_records_received} />
               <QualityRow label="Eligible forecast records" value={quality?.eligible_forecast_records} />
-              <QualityRow label="WIND actual records" value={quality?.actual_wind_records} />
+              <QualityRow label="WIND actual records" value={quality?.raw_wind_records} />
             </div>
             <div className="quality-note">A complete timestamp match indicates coverage, not necessarily source completeness or compliance with official market deadlines.</div>
           </article>
