@@ -111,3 +111,9 @@ A successful Vite build may still report a large-bundle warning. This is a perfo
 
 Public deployment -
 Demo-video URL- 
+
+## AI tools disclosure
+
+AI tools were used to assist with development, debugging, documentation,
+and code review. The implementation, testing, and final validation remain
+the responsibility of the project author.
